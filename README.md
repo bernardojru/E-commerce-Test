@@ -1,5 +1,7 @@
 ## Run Locally
 
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/054f6c1f-dff2-411b-b502-5a94989dfdf3" />
+
 Clone the project
 
 ```bash
